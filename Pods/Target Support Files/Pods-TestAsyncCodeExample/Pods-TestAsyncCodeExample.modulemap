@@ -1,0 +1,6 @@
+framework module Pods_TestAsyncCodeExample {
+  umbrella header "Pods-TestAsyncCodeExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
